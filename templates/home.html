@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for post in posts %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ post.heading }}</a>
+            </div>
+            <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
+            <p class="article-content">{{ post.content }}</p>
+            <p>Click on <b>Prediction</b> button in the Top right cornor to Predict your Flight Price with accuracy of 84%'</p>
+          </div>
+        </article>
+        <p style="position: fixed; bottom: 0; text-align: center">©2020 Dipesh Gyanchandani</p>
+    {% endfor %}
+{% endblock content %}
