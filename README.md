@@ -14,6 +14,7 @@
 ## Demo
 Link: https://myflightprice.herokuapp.com/
 or Click [Here](https://myflightprice.herokuapp.com/)
+![alt text](https://github.com/dipeshgyanchandani/myproject/blob/master/Screenshot%202021-01-13%20at%202.42.41%20AM.png "Logo Title Text 1")
 
 ## Installation
 To install the required packages and libraries, run this command in the project directory after cloning the repository:
