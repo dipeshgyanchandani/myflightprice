@@ -44,7 +44,7 @@ To install the required packages and libraries, run this command in the project 
 * [sci-kit learn](https://scikit-learn.org/stable/)
 
 ## Bugs and Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/dipeshgyanchandani/myflightprice/issues) by including your search query and the expected result
 
 ## Future Scope
 * Use Multiple Algorithms
