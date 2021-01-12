@@ -13,6 +13,7 @@ MyFlightPrice is a Flask web app which can predict your flight price based on th
 
 ## Demo
 Link: https://myflightprice.herokuapp.com/
+or Click [Here](https://myflightprice.herokuapp.com/)
 
 ## Installation
 To install the required packages and libraries, run this command in the project directory after cloning the repository:
@@ -37,10 +38,10 @@ To install the required packages and libraries, run this command in the project 
 ```
 
 ## Technologies Used
-* Python
-* Flask
-* Gunicorn
-* sci-kit learn
+* [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Gunicorn](https://gunicorn.org/)
+* [sci-kit learn](https://scikit-learn.org/stable/)
 
 ## Bugs and Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
