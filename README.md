@@ -1,12 +1,12 @@
 # Flight Price Prediction
 ## Table of Content
 * [Overview](#Overview)
-* Demo
-* Installation
-* Directory Tree
-* Technologies Used
-* Bugs and Feature Request
-* Future Scope
+* [Demo](#Demo)
+* [Installation](#Installation)
+* [Directory Tree](#Directory-Tree)
+* [Technologies Used](#Technology-Used)
+* [Bugs and Feature Request](#Bugs-and-Feature-Request)
+* [Future Scope](#Future-Scope)
 
 ## Overview
 MyFlightPrice is a Flask web app which can predict your flight price based on the required information. Price may vary based on Source & Destination cities, Stops, Departure and Arrival Date & Time. Random Forest Classifier is implemented to predict the price of a flight.
