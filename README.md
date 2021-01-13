@@ -9,7 +9,7 @@
 * [Future Scope](#Future-Scope)
 
 ## Overview
-[MyFlightPrice](https://myflightprice.herokuapp.com/) is a Flask web app which can predict your flight price based on the required information. Price may vary based on Source & Destination cities, Stops, Departure and Arrival Date & Time. Random Forest Classifier is implemented to predict the price of a flight.
+[MyFlightPrice](https://myflightprice.herokuapp.com/) is a Flask web app which can predict your flight price based on the required information. Price may vary based on Source & Destination cities, Stops, Departure and Arrival Date & Time. Random Forest Regressor is implemented to predict the price of a flight.
 
 ## Demo
 Link: https://myflightprice.herokuapp.com/
